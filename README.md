@@ -1,2 +1,2 @@
-# html5-game-bucket
+# game-bucket
 Used for storing mockups and test
