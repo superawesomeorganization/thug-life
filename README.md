@@ -1,2 +1,2 @@
-# game-bucket
-Used for storing mockups and test
+# Thug Life
+"All out of bubble gum"
